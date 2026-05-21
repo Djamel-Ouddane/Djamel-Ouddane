@@ -3,7 +3,7 @@
 <br>Hello & Welcome!
 <br>
 <br>I'm Djamel Ouddane, I'm a Junior Developer(Aspiring). Originally from a fairly creative background,<br> I always had a love and interest in coding and evolving technologies.<br> With that I decided to make it my lifes pursuit and aim for excellence, however long that may take.<br><br>
-🔭 I’m currently working on some small apps, landing pages and possible coding platforms to help others.<br>🌱 I’m currently improving my knowledge of Data structures and algorithms. Also my overall Python competency and an ever growing tech stack.<br>⚡ Fun fact I did Illustration/Graphic Design for a number of years.<br>
+🔭 I’m currently working on some small projects, slowly fleshing them out to better developer towards more difficult tasks.<br>🌱 I’m currently improving my knowledge of Data structures and algorithms. Also my overall Python competency and an ever growing tech stack.<br>⚡ Fun fact I did Illustration/Graphic Design for a number of years.<br>
 
 
 # 💻 Tech Stack:
